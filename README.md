@@ -1,6 +1,6 @@
 ## Organizze Clone - Mobile
 
-###  :computer: Tela
+###  :desktop_computer: Tela
 
 <div align="center">
   <img alt="Tela" title="#Tela" width="100%" height="auto" src="./README/tela.png" />
@@ -9,7 +9,7 @@
 ----------
 
 ### :hammer_and_wrench: Ferramentas
-As seguintes tecnologias foram utilizadas na construção do projeto:
+As seguintes tecnologias foram utilizadas na construÃ§Ã£o do projeto:
 - Java;
 - XML;
 - Banco de Dados - Firebase;
@@ -17,13 +17,13 @@ As seguintes tecnologias foram utilizadas na construção do projeto:
 
 ----------
 
-###  :gear: Função
-- [x] Aplicativo para controlar gastos e cuidar das finanças pessoais de forma intuitiva.
+###  :gear: FunÃ§Ã£o
+- [x] Aplicativo para controlar gastos e cuidar das finanÃ§as pessoais de forma intuitiva.
 
 ----------
 
 ###  :eyeglasses: Autor
-José Gustavo da Silva.
+JosÃ© Gustavo da Silva.
 [
 **Linkedin**
 ](https://www.linkedin.com/in/jose-gustavo312/)
