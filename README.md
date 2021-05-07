@@ -18,7 +18,7 @@ As seguintes tecnologias foram utilizadas na construção do projeto:
 ----------
 
 ###  :gear: Função
-- [x] Aplicativo para controlar gastos e cuidar das finanças pessoais de forma intuitiva.
+- [x] Aplicativo para controlar gastos e cuidar das finanças pessoais de forma intuitiva e prática.
 
 ----------
 
